@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Kane",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Harry_Kane_in_Russia_2.jpg",
+        "age":30,
+        "location":"Germany"
+    },
+    {
+        "name":"Foden",
+        "image":"https://www.mancity.com/meta/media/0lol5jo5/phil-foden.png",
+        "age":22,
+        "location":"England"
+    },
+    {
+        "name":"Giroud",
+        "image":"https://b.fssta.com/uploads/application/soccer/headshots/113.vresize.350.350.medium.45.png",
+        "age":36,
+        "location":"Italy"
+    },
+    {
+        "name":"Mbappe",
+        "image":"https://s.hs-data.com/bilder/spieler/gross/284095.jpg",
+        "age":23,
+        "location":"France"
+    },
+    {
+        "name":"Fred",
+        "image":"https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/13/thumbs_b_c_ddb76f72fdaaf6560cb18234cfc47401.jpg?v=201429",
+        "age":28,
+        "location":"Turkey"
+    }
+]
